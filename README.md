@@ -1,1 +1,2 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ac9beed958024271877183428552c6d4)](https://www.codacy.com/gh/stepin105197/Online-Selection-Of-Musical-InstrumentCourses-Cpp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stepin105197/Online-Selection-Of-Musical-InstrumentCourses-Cpp&amp;utm_campaign=Badge_Grade)
+![cppcheck-action](https://github.com/stepin105197/Online-Selection-Of-Musical-InstrumentCourses-Cpp/workflows/cppcheck-action/badge.svg)
